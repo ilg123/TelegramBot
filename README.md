@@ -1,5 +1,5 @@
 # TelegramBot
-This is a simple Telegram bot that provides various functionalities to enhance your Telegram experience. It is written in Python and uses the aiogram.
+This is a simple Telegram bot that provides various functionalities to enhance your Telegram experience. It is written in Python and uses the aiogram and API model GPT.
 
 ## Installation
 1. Clone the repository:
